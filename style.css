@@ -1,0 +1,14 @@
+/*
+Theme Name: Twenty Seventeen
+Theme URI: http://totalwptheme.com
+Description: Total WordPress theme example child theme.
+Author: AJ Clarke
+Author URI: http://totalwptheme.com
+Template: twentyseventeen
+Version: 1.0
+*/
+@import url('../twentyseventeen/style.css');
+
+.test3 {
+    color: red;
+}
